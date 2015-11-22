@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="instabugsupport-1.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ParseStarterProject/build/intermediates/exploded-aar/com.instabug.library/instabugsupport/1.7/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/ParseStarterProject/build/intermediates/exploded-aar/com.instabug.library/instabugsupport/1.7/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
